@@ -8,6 +8,12 @@ function App() {
       HELLO WORLD
     </text>
    </View>
+
+   <view>
+    <h1>
+      dfsgdfgdfgdfg
+    </h2>
+   </view>
   )
 }
 
